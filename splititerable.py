@@ -1,4 +1,3 @@
-from StringIO import StringIO
 import itertools
 
 def split_at(iterable, n):
